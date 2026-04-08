@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Sandia Garage Door Repair",
+    "phone": "+15057962681",
+    "category": "garage door installer",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Garage Door Experts",
+      "heroSubline": "Reliable repairs and installations across Albuquerque. Decades of experience handling New Mexico's unique climate challenges.",
+      "aboutTitle": "Your Trusted Albuquerque Garage Door Partner",
+      "aboutText": [
+        "Sandia Garage Door Repair started with a simple mission: to provide honest, reliable garage door services to our neighbors in Albuquerque. We're a locally owned and operated company, born and raised right here in Bernalillo County.",
+        "We believe in doing things the right way, every time. That means using quality parts, employing skilled technicians, and treating every customer with respect. We prioritize clear communication and transparent pricing.",
+        "Our commitment extends beyond just garage doors. We actively support local schools and charities, because Albuquerque is more than just where we work—it's our home."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "Fast, reliable service when you need it most. We understand garage door problems don't always happen during business hours."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation. We know our way around New Mexico's specific challenges."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only durable, dependable parts from leading manufacturers. This ensures long-lasting performance and reliability."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, honest estimates before any work begins."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Garage Door Estimate Today!",
+      "ctaSubline": "Contact us now for a quick, no-obligation quote on your garage door repair or installation project."
+    },
+    "services": [
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable garage door repair services throughout Albuquerque.",
+        "description": "Is your garage door making strange noises, refusing to open, or hanging crookedly? Sandia Garage Door Repair offers comprehensive repair services to get your door back in top shape. We handle everything from broken springs and cables to malfunctioning openers and damaged panels. Albuquerque's intense sun and monsoon seasons can take a toll on garage doors, leading to warping, rust, and decreased performance. We have the experience to diagnose and fix any issue, big or small. \n\nOur technicians arrive promptly, equipped with the tools and parts needed to complete most repairs on the spot. We prioritize safety and efficiency, ensuring your garage door is functioning smoothly and securely. We work on all makes and models of garage doors, and we stand behind our work with a satisfaction guarantee. Don't let a faulty garage door disrupt your day – call Sandia Garage Door Repair for fast, dependable service.",
+        "process": [
+          "Step 1: Schedule a convenient appointment time.",
+          "Step 2: Our technician will diagnose the problem and provide a detailed estimate.",
+          "Step 3: With your approval, we'll complete the repair using quality parts.",
+          "Step 4: We'll test the door to ensure proper operation and safety."
+        ],
+        "benefits": [
+          "Fast and reliable repairs",
+          "Experienced technicians",
+          "Quality parts",
+          "Affordable prices"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a repair request?",
+            "answer": "We offer same-day service in many cases. Call us, and we'll do our best to get a technician to your home as soon as possible."
+          },
+          {
+            "question": "What types of garage doors do you repair?",
+            "answer": "We repair all makes and models of residential and commercial garage doors, including sectional, roll-up, and tilt-up doors."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer 24/7 emergency repair services for situations that require immediate attention."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Professional garage door installation services for Albuquerque homes and businesses.",
+        "description": "Looking to upgrade your garage door or install a new one? Sandia Garage Door Repair provides expert installation services tailored to your specific needs and budget. We offer a wide selection of garage doors from leading manufacturers, including steel, wood, aluminum, and insulated options. We understand that Albuquerque homes often feature stucco or adobe exteriors, and we can help you choose a door that complements your home's style. \n\nOur experienced technicians handle every aspect of the installation process, from removing your old door to ensuring the new one operates smoothly and safely. We pay close attention to detail, ensuring proper alignment, weather sealing, and opener functionality. We also provide guidance on garage door maintenance to keep your new door looking and working its best for years to come. With Sandia Garage Door Repair, you can be confident that your new garage door installation will be done right.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your needs and preferences.",
+          "Step 2: We'll provide a detailed estimate with a range of door options.",
+          "Step 3: Once you select a door, we'll schedule the installation.",
+          "Step 4: Our technicians will install the door and ensure proper operation."
+        ],
+        "benefits": [
+          "Wide selection of doors",
+          "Professional installation",
+          "Improved curb appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does a garage door installation take?",
+            "answer": "Most installations can be completed in a single day, depending on the complexity of the job."
+          },
+          {
+            "question": "Do you offer garage door opener installation?",
+            "answer": "Yes, we offer installation of garage door openers, including chain-drive, belt-drive, and smart openers."
+          },
+          {
+            "question": "What is the best type of garage door for Albuquerque's climate?",
+            "answer": "Insulated steel doors are a popular choice in Albuquerque due to their durability and energy efficiency. They can withstand the intense sun and help regulate the temperature inside your garage."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Albuquerque's trusted source for garage door opener repair and replacement.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience. Sandia Garage Door Repair specializes in diagnosing and repairing all types of garage door openers. Whether your opener is making strange noises, failing to open or close the door, or experiencing remote control issues, our expert technicians can quickly identify the problem and provide an effective solution. We work on all major brands of openers, including Chamberlain, LiftMaster, Genie and more. \n\nWe understand that Albuquerque's frequent power surges can damage garage door openers. We can also assist with installing surge protectors to prevent future damage. From replacing worn gears to reprogramming remotes, we have the skills and experience to get your garage door opener working like new. We also offer garage door opener replacement services if your existing unit is beyond repair or you're looking to upgrade to a newer model with advanced features.",
+        "process": [
+          "Step 1: Inspect the opener and diagnose the issue.",
+          "Step 2: Provide a clear explanation of the problem and repair options.",
+          "Step 3: Complete the repair using quality replacement parts.",
+          "Step 4: Test the opener to ensure proper operation and safety features."
+        ],
+        "benefits": [
+          "Fast and reliable opener repairs",
+          "Experienced technicians",
+          "Affordable pricing",
+          "Improved security"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs to be repaired or replaced?",
+            "answer": "If your opener is more than 10 years old, experiencing frequent problems, or exhibiting signs of wear and tear, it may be time to consider a replacement."
+          },
+          {
+            "question": "Can you program my garage door remote?",
+            "answer": "Yes, we can program or reprogram your garage door remote, even if you've lost the original instructions."
+          },
+          {
+            "question": "Do you offer smart garage door openers?",
+            "answer": "Yes, we offer a range of smart garage door openers that can be controlled from your smartphone or other devices."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and reliable garage door spring replacement in Albuquerque, NM.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and expertise. Sandia Garage Door Repair offers professional garage door spring replacement services to ensure your safety and the proper functioning of your garage door. We use only high-quality springs that are designed to withstand the rigors of Albuquerque's climate. \n\nWhether you have torsion springs or extension springs, our experienced technicians can quickly and safely replace them. We'll also inspect your garage door system to identify any other potential issues and ensure that everything is working correctly. Never attempt to replace garage door springs yourself – call Sandia Garage Door Repair for safe and reliable service.",
+        "process": [
+          "Step 1: Assess the type and size of springs needed.",
+          "Step 2: Safely remove the old springs.",
+          "Step 3: Install the new springs with proper tension.",
+          "Step 4: Test the door balance and operation."
+        ],
+        "benefits": [
+          "Safe and reliable service",
+          "High-quality springs",
+          "Proper door balance",
+          "Extended spring life"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door springs are broken?",
+            "answer": "Common signs of broken garage door springs include a loud snapping sound, a garage door that is difficult to lift, or a garage door that hangs crookedly."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of garage door springs depends on usage and maintenance, but typically ranges from 5 to 10 years."
+          },
+          {
+            "question": "Why is it important to replace both garage door springs at the same time?",
+            "answer": "Replacing both springs at the same time ensures even balance and prevents one spring from failing prematurely."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Keep your garage door running smoothly with our comprehensive maintenance services.",
+        "description": "Regular maintenance is essential for prolonging the life of your garage door and preventing costly repairs. Sandia Garage Door Repair offers comprehensive garage door maintenance services to keep your door operating smoothly and safely. Our maintenance service includes lubricating moving parts, tightening loose hardware, inspecting cables and rollers, and testing safety features. \n\nAlbuquerque's dry climate can cause garage door components to dry out and crack, leading to premature wear and tear. Our maintenance service helps protect your garage door from the elements and ensures optimal performance. We recommend scheduling a garage door maintenance service at least once a year.",
+        "process": [
+          "Step 1: Thoroughly inspect all garage door components.",
+          "Step 2: Lubricate moving parts to reduce friction.",
+          "Step 3: Tighten loose hardware and adjust as needed.",
+          "Step 4: Test safety features and sensors."
+        ],
+        "benefits": [
+          "Prolonged garage door life",
+          "Reduced repair costs",
+          "Improved safety",
+          "Smooth and quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I lubricate my garage door?",
+            "answer": "We recommend lubricating your garage door at least twice a year, or more often if you live in a dusty or windy area."
+          },
+          {
+            "question": "What type of lubricant should I use on my garage door?",
+            "answer": "Use a silicone-based lubricant specifically designed for garage doors. Avoid using oil-based lubricants, as they can attract dust and debris."
+          },
+          {
+            "question": "Can I perform garage door maintenance myself?",
+            "answer": "While some maintenance tasks, such as lubricating moving parts, can be done yourself, it's best to leave more complex tasks, such as spring adjustments, to a professional."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-garage-door-repair",
+        "name": "Emergency Garage Door Repair",
+        "shortDescription": "24/7 emergency garage door repair services in Albuquerque and surrounding areas.",
+        "description": "A broken garage door can compromise your home's security and convenience. Sandia Garage Door Repair offers 24/7 emergency garage door repair services to address urgent issues that require immediate attention. Whether your garage door is stuck open, won't close, or has been damaged in a storm, our team is available around the clock to provide fast and reliable assistance. \n\nWe understand that Albuquerque's unpredictable weather can sometimes lead to garage door emergencies. Our technicians arrive promptly, equipped with the tools and parts needed to resolve most issues on the spot. Don't hesitate to call us anytime, day or night, for emergency garage door repair services.",
+        "process": [
+          "Step 1: Call our 24/7 emergency hotline.",
+          "Step 2: We'll dispatch a technician to your location immediately.",
+          "Step 3: The technician will diagnose the problem and provide a solution.",
+          "Step 4: We'll complete the repair quickly and efficiently."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Experienced technicians",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a garage door emergency?",
+            "answer": "A garage door emergency includes situations such as a door that is stuck open, won't close, has been damaged in a storm, or poses a security risk."
+          },
+          {
+            "question": "How quickly can you respond to an emergency repair request?",
+            "answer": "We strive to respond to emergency repair requests within 1-2 hours, depending on your location and the availability of our technicians."
+          },
+          {
+            "question": "What areas do you serve for emergency repairs?",
+            "answer": "We provide emergency garage door repair services throughout Albuquerque and the surrounding areas."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair is proud to serve the Albuquerque metro area, providing expert garage door installation, repair, and maintenance services to homeowners and businesses alike. From the historic Old Town to the vibrant University area and the growing West Side, we understand the unique needs of Albuquerque residents when it comes to their garage doors. We offer a wide selection of garage doors to match the diverse architectural styles found throughout the city, ensuring a perfect fit for your home. \n\nOur experienced technicians are familiar with the common garage door issues faced in Albuquerque, from dealing with the effects of the desert climate to addressing wear and tear from frequent use. We are committed to providing prompt, reliable service and using only high-quality parts to ensure the longevity and performance of your garage door. Whether you need a simple repair or a complete garage door replacement, Sandia Garage Door Repair is here to help.",
+        "localContext": "Albuquerque, New Mexico's largest city, is known for its unique blend of cultures, stunning desert landscape, and vibrant arts scene. Sandia Garage Door Repair understands the importance of maintaining the aesthetic appeal of your home in this distinctive environment.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Ranchos de Albuquerque",
+          "South Valley"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair extends its expert services to Rio Rancho, a rapidly growing city just north of Albuquerque. We understand the specific needs of Rio Rancho homeowners, from new construction installations to repairs on existing homes. Our team is dedicated to providing reliable and affordable garage door solutions to the residents of Rio Rancho.\n\nWe offer a wide variety of garage door styles and materials to complement the diverse architectural styles found in Rio Rancho neighborhoods. Whether you're looking for a traditional steel door or a modern glass door, we have the perfect option to enhance the curb appeal and security of your home. Sandia Garage Door Repair is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Rio Rancho, known for its family-friendly atmosphere and beautiful views of the Sandia Mountains, is a thriving community. Sandia Garage Door Repair is dedicated to providing reliable service to the homeowners of Rio Rancho.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Corrales",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair proudly serves the village of Los Lunas, providing expert garage door services to residents and businesses in the area. We understand the importance of having a reliable and secure garage door, and we are committed to providing prompt and professional service to the Los Lunas community.\n\nOur experienced technicians are equipped to handle all types of garage door repairs, from broken springs and cables to malfunctioning openers. We also offer a wide selection of new garage doors to choose from, ensuring that you find the perfect style and functionality to meet your needs. Sandia Garage Door Repair is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Los Lunas, a historic village south of Albuquerque, offers a blend of small-town charm and modern amenities. Sandia Garage Door Repair is committed to serving the unique needs of Los Lunas residents.",
+        "nearbyAreas": [
+          "Bosque Farms",
+          "Peralta",
+          "Valencia"
+        ]
+      },
+      {
+        "city": "South Valley",
+        "slug": "south-valley-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair is dedicated to providing expert garage door services to the residents and businesses of the South Valley. We understand the unique needs of this vibrant community and are committed to providing prompt, reliable, and affordable service.\n\nWhether you need a repair, a replacement, or a new installation, our experienced technicians are equipped to handle any garage door issue. We offer a wide selection of garage doors to choose from, ensuring that you find the perfect fit for your home or business. Sandia Garage Door Repair is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "The South Valley, known for its agricultural roots and strong community spirit, is a unique part of the Albuquerque metropolitan area. Sandia Garage Door Repair is committed to serving the diverse needs of South Valley residents.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Isleta Village Proper",
+          "Los Padillas"
+        ]
+      },
+      {
+        "city": "North Valley",
+        "slug": "north-valley-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair is pleased to offer our expert garage door services to the residents of the North Valley. With its established neighborhoods and unique homes, we understand the importance of maintaining the aesthetic appeal and functionality of your garage door.\n\nWe provide a full range of services, from routine maintenance and repairs to complete garage door replacements. Our experienced technicians are familiar with the various architectural styles in the North Valley and can help you choose the perfect garage door to complement your home. Sandia Garage Door Repair is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "The North Valley, known for its lush greenery, historic homes, and agricultural heritage, offers a unique charm within the Albuquerque metropolitan area. Sandia Garage Door Repair understands the importance of preserving the beauty and character of North Valley homes.",
+        "nearbyAreas": [
+          "Los Ranchos de Albuquerque",
+          "Albuquerque",
+          "Corrales"
+        ]
+      },
+      {
+        "city": "Corrales",
+        "slug": "corrales-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair provides comprehensive garage door services to the village of Corrales. We understand the importance of maintaining the unique character and charm of Corrales homes, and we offer a variety of garage door styles to complement the local architecture.\n\nFrom repairs and maintenance to new installations, our experienced technicians are equipped to handle all your garage door needs. We are committed to providing prompt, reliable service and using only high-quality parts to ensure the longevity and performance of your garage door. Sandia Garage Door Repair is dedicated to serving the Corrales community.",
+        "localContext": "Corrales, known for its rural atmosphere, equestrian culture, and artistic community, offers a peaceful retreat just north of Albuquerque. Sandia Garage Door Repair is committed to serving the unique needs of Corrales residents.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "North Valley",
+          "Los Ranchos de Albuquerque"
+        ]
+      },
+      {
+        "city": "Placitas",
+        "slug": "placitas-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair extends its services to the scenic community of Placitas, providing expert garage door solutions to homeowners in this beautiful area. We understand the importance of having a reliable and secure garage door, and we are committed to providing prompt and professional service to the Placitas community.\n\nOur experienced technicians are equipped to handle all types of garage door repairs, from broken springs and cables to malfunctioning openers. We also offer a wide selection of new garage doors to choose from, ensuring that you find the perfect style and functionality to meet your needs. Sandia Garage Door Repair is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Placitas, nestled in the foothills of the Sandia Mountains, is known for its stunning natural beauty, artistic community, and peaceful lifestyle. Sandia Garage Door Repair is dedicated to serving the unique needs of Placitas residents.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Bernalillo",
+          "Santa Fe"
+        ]
+      },
+      {
+        "city": "Bernalillo",
+        "slug": "bernalillo-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair is proud to serve the town of Bernalillo, offering expert garage door services to residents and businesses in this historic community. We understand the importance of having a reliable and secure garage door, and we are committed to providing prompt and professional service to the Bernalillo community.\n\nOur experienced technicians are equipped to handle all types of garage door repairs, from broken springs and cables to malfunctioning openers. We also offer a wide selection of new garage doors to choose from, ensuring that you find the perfect style and functionality to meet your needs. Sandia Garage Door Repair is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Bernalillo, a town steeped in history and culture, sits along the Rio Grande River and offers a unique blend of old and new. Sandia Garage Door Repair is dedicated to serving the unique needs of Bernalillo residents.",
+        "nearbyAreas": [
+          "Placitas",
+          "Algondones",
+          "San Ysidro"
+        ]
+      },
+      {
+        "city": "Los Ranchos de Albuquerque",
+        "slug": "los-ranchos-de-albuquerque-nm",
+        "state": "NM",
+        "content": "Sandia Garage Door Repair is pleased to offer our garage door services to Los Ranchos de Albuquerque. We understand the importance of maintaining the aesthetic of your home, and we offer a variety of garage door styles to suit your needs in this unique village.\n\nFrom simple repairs to complete replacements, our technicians are ready to help. We work with all common garage door issues in the area and only use high-quality parts to ensure the longevity of your door. We are committed to exceptional customer service.",
+        "localContext": "Los Ranchos is an Albuquerque suburb known for its rural character, agricultural roots, and large estates. Sandia Garage Door Repair is committed to providing excellent service to this community.",
+        "nearbyAreas": [
+          "North Valley",
+          "Albuquerque",
+          "Corrales"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "My garage door spring broke on a Saturday morning, and I was worried about leaving my garage open all weekend. Sandia Garage Door Repair came out within an hour and replaced the spring quickly and professionally. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out of the garage. They diagnosed the problem quickly and fixed it for a reasonable price. The technician was friendly and knowledgeable.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "Sandia Garage Door Repair installed a new garage door for me, and it looks fantastic! The installation was smooth and efficient, and the team was very helpful in choosing the right door for my home. I highly recommend them.",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "My garage door was making a terrible grinding noise, and I was afraid it was going to break down completely. Sandia Garage Door Repair came out and fixed the problem quickly and efficiently. I'm so glad I called them!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I recently had Sandia Garage Door Repair perform a maintenance check on my garage door, and I'm very pleased with the service. They lubricated all the moving parts and made sure everything was working properly. My garage door is now running much smoother and quieter.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Emergency Garage Door Repair",
+        "text": "My garage door got stuck halfway open late at night, and I couldn't get it to close. I called Sandia Garage Door Repair, and they were here within 30 minutes. They fixed the problem quickly and professionally, and I felt much safer knowing my garage was secure.",
+        "date": "2024-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Albuquerque Garage Door Repair | Sandia",
+        "description": "Reliable garage door repair and installation in Albuquerque, NM. Expert technicians. Fast service. Call Sandia Garage Door Repair today!"
+      },
+      "about": {
+        "title": "About Sandia Garage Door Repair",
+        "description": "Learn about Sandia Garage Door Repair's values, experience, and commitment to serving the Albuquerque community."
+      },
+      "services": {
+        "title": "Sandia Garage Door Services",
+        "description": "Comprehensive garage door repair, installation, and maintenance services in Albuquerque. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Sandia Garage Door Repair",
+        "description": "Contact Sandia Garage Door Repair for fast, reliable service in Albuquerque. Call us or fill out our online form for a quick response."
+      },
+      "reviews": {
+        "title": "Sandia Garage Door Reviews",
+        "description": "Read what our satisfied customers in Albuquerque are saying about Sandia Garage Door Repair."
+      },
+      "service-areas": {
+        "title": "Sandia Garage Door Service Areas",
+        "description": "Sandia Garage Door Repair provides service to Albuquerque and surrounding areas. Find out if we service your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "emergency-garage-door-repair": "/images/service-emergency-garage-door-repair.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-garage-door-repair": {
+        "src": "/images/service-emergency-garage-door-repair.webp",
+        "srcset": "/images/service-emergency-garage-door-repair-400w.webp 400w, /images/service-emergency-garage-door-repair-800w.webp 800w, /images/service-emergency-garage-door-repair-1200w.webp 1200w, /images/service-emergency-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

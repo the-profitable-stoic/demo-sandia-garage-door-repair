@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-sandia-garage-door-repair.dream-surge.com/sitemap-index.xml
